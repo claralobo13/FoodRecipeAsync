@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodRecipeAsync</string>
+    <string name="steps">steps</string>
+    <string name="ingerdients">ingerdients</string>
+    <string name="serving">serving</string>
+    <string name="timereq">timereq</string>
+
+
+</resources>
