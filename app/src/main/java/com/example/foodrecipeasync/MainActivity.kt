@@ -131,8 +131,8 @@ class MainActivity : AppCompatActivity() {
         Log.d("TAG3", ""+title)
         var datarecipe:DataRecipe= recipenames.get(position)
         Log.d("TAG4", ""+datarecipe.recipename)
-        val intent = Intent(this, FoodDetailsActivity::class.java)
-        intent.putExtra("recipeid", datarecipe.recipename)
-        startActivity(intent)
+//        val intent = Intent(this, FoodDetailsActivity::class.java)
+//        intent.putExtra("recipeid", datarecipe.recipename)
+//        startActivity(intent)
     }
 }
